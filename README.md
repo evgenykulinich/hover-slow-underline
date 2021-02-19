@@ -1,4 +1,4 @@
-# Slow Underline - Using CSS :after & :hover
+# Slow Underline Effect - Using CSS :after & :hover
 
 ![HoverEffect Preview](/preview.gif)
 
